@@ -80,4 +80,4 @@ Password for 'https://github.com':
 
 ## 🖼️ Subir imágenes a GitHub con Git
 Para mostrar una imagen en tu README.md:
-![Texto alternativo](images/1.png)
+![Texto alternativo](images/1.jpg)
