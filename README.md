@@ -5,4 +5,4 @@
 git config --global user.name "gmarko-dV"
 git config --global user.email "gian.pasco@tecsup.edu.pe"
 ```
-##Comandos Basicos 
+#Comandos Basicos 
