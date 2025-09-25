@@ -49,7 +49,7 @@ git fetch                      # Descargar cambios sin mezclar
 - ESC + :wq (guardar y salir)
 
 
-# 🔑 Guía: Usar Token de GitHub para subir proyectos
+# 🔑 Usar Token de GitHub para subir proyectos
 
 Cuando estoy en una PC que no es la mía, no uso mi clave SSH, sino un **Token de Acceso Personal (PAT)**.  
 Aquí están los pasos para configurar y subir proyectos con Git y token.
