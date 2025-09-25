@@ -77,3 +77,7 @@ Password for 'https://github.com':
 👉 Importante: cuando pegues el token, no se verá en pantalla (por seguridad), solo presiona Enter.
 
 ✅ Con esto ya puedes clonar, commitear y pushear desde cualquier PC usando tu token Classic.
+
+## 🖼️ Subir imágenes a GitHub con Git
+Para mostrar una imagen en tu README.md:
+![Texto alternativo](images/1.png)
